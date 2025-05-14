@@ -8,10 +8,3 @@ Le site web du **Club Ibn Khaldoun** présente des informations sur les activit�
 - **CSS3**
 - **react**
 
-## Installation
-
-### Pour exécuter le projet localement :
-
-1. Clonez ce dépôt sur votre machine :
-   ```bash
-   git clone https://github.com/MAJDOULINA2001/club-ibn-khaldoun.git
